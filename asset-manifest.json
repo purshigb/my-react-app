@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-react-app/static/js/main.62ea268c.js",
+    "static/js/453.ad6eb26e.chunk.js": "/my-react-app/static/js/453.ad6eb26e.chunk.js",
+    "static/media/guinea-pig.jpg": "/my-react-app/static/media/guinea-pig.5a0c4b67e7c4bba4c560.jpg",
+    "static/media/goat.jpg": "/my-react-app/static/media/goat.746644702bb5248fd558.jpg",
+    "static/media/coconut.jpg": "/my-react-app/static/media/coconut.5a41f580f1aa31379a6d.jpg",
+    "static/media/sheep.jpg": "/my-react-app/static/media/sheep.9d044cd5ba92b7dc42f6.jpg",
+    "static/media/bv380-eggs.jpg": "/my-react-app/static/media/bv380-eggs.87aecb7d74140c106c9e.jpg",
+    "static/media/tender-coconut.jpg": "/my-react-app/static/media/tender-coconut.6c960d2c428c51becb19.jpg",
+    "index.html": "/my-react-app/index.html",
+    "main.e6c13ad2.css.map": "/my-react-app/static/css/main.e6c13ad2.css.map",
+    "main.62ea268c.js.map": "/my-react-app/static/js/main.62ea268c.js.map",
+    "453.ad6eb26e.chunk.js.map": "/my-react-app/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62ea268c.js"
+  ]
+}
