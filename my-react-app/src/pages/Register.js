@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 function Register() {
   const [formData, setFormData] = useState({
@@ -12,7 +13,7 @@ function Register() {
 
   const [error, setError] = useState('');
   const [success, setSuccess] = useState(false);
-
+  const navigate = useNavigate();
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData(prev => ({
@@ -69,7 +70,7 @@ function Register() {
         alert('Registration successful! Click OK to proceed to login.');
       
         // Redirect to login page
-        window.location.href = '/login'; // or use react-router navigate if using routes
+        navigate('/login'); // or use react-router navigate if using routes
       }
       else {
         const data = await response.json();
